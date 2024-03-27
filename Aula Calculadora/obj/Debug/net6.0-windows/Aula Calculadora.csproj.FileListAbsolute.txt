@@ -1,0 +1,16 @@
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\Aula_Calculadora.Form1.resources
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\Aula Calculadora.csproj.GenerateResource.cache
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\Aula Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\Aula Calculadora.AssemblyInfoInputs.cache
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\Aula Calculadora.AssemblyInfo.cs
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\Aula Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\bin\Debug\net6.0-windows\Aula Calculadora.exe
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\bin\Debug\net6.0-windows\Aula Calculadora.deps.json
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\bin\Debug\net6.0-windows\Aula Calculadora.runtimeconfig.json
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\bin\Debug\net6.0-windows\Aula Calculadora.dll
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\bin\Debug\net6.0-windows\Aula Calculadora.pdb
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\Aula Calculadora.dll
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\refint\Aula Calculadora.dll
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\Aula Calculadora.pdb
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\Aula Calculadora.genruntimeconfig.cache
+C:\Users\lab-vp\source\repos\Aulas\Aula Calculadora\obj\Debug\net6.0-windows\ref\Aula Calculadora.dll
