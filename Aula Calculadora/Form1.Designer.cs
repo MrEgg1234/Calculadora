@@ -60,6 +60,7 @@
             bt_ponto.TabIndex = 0;
             bt_ponto.Text = ".";
             bt_ponto.UseVisualStyleBackColor = true;
+            bt_ponto.Click += bt_ponto_Click;
             // 
             // bt0
             // 
@@ -271,6 +272,7 @@
             btn_visor.RightToLeft = RightToLeft.Yes;
             btn_visor.Size = new Size(178, 68);
             btn_visor.TabIndex = 20;
+            btn_visor.KeyPress += btn_visor_KeyPress;
             // 
             // Form1
             // 

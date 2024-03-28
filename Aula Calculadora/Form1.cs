@@ -2,6 +2,11 @@ namespace Aula_Calculadora
 {
     public partial class Form1 : Form
     {
+        public class var_Global
+        {
+            public static double valor_Inicial = 0.0;
+            public static double resultado = 0.0;
+        }
         public Form1()
         {
             InitializeComponent();
@@ -61,6 +66,19 @@ namespace Aula_Calculadora
         {
             btn_visor.Text += "+";
 
+        }
+
+        private void bt_ponto_Click(object sender, EventArgs e)
+        {
+            btn_visor.Text += ",";
+        }
+
+        private void btn_visor_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
         }
     }
 }
